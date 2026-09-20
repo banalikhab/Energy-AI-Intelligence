@@ -477,27 +477,27 @@ The following screenshots demonstrate the main features of the Streamlit dashboa
 
 ### 1. Dashboard Overview
 
-![Energy AI Intelligence Dashboard](screenshots/Dashboard.png)
+![Energy AI Intelligence Dashboard](Screenshots/Dashboard.png)
 
 ### 2. Actual vs Predicted Energy Consumption
 
-![Actual vs Predicted Energy Consumption](screenshots/Actual_vs_Predicted.png)
+![Actual vs Predicted Energy Consumption](Screenshots/Actual_vs_Predicted.png)
 
 ### 3. Prediction Error Analysis
 
-![Prediction Error Analysis](screenshots/Error.png)
+![Prediction Error Analysis](Screenshots/Error.png)
 
 ### 4. Detailed Energy Records
 
-![Detailed Energy Records](screenshots/Detailed_Records.png)
+![Detailed Energy Records](Screenshots/Detailed_Records.png)
 
 ### 5. Potential Anomaly Detection
 
-![Potential Anomaly Detection](screenshots/Potential_Anomaly_Defects1.png)
+![Potential Anomaly Detection](Screenshots/Potential_Anomaly_Defects1.png)
 
 ### 6. Additional Anomaly Analysis
 
-![Additional Anomaly Analysis](screenshots/Potential_Anomaly_Defects_2.png)
+![Additional Anomaly Analysis](Screenshots/Potential_Anomaly_Defects_2.png)
 
 ## IBM Bob Integration
 
@@ -507,10 +507,10 @@ IBM Bob was used as an AI-assisted tool during the development of the Energy AI 
 
 The initial Bob workspace and project environment are shown below.
 
-![IBM Bob Project Overview](screenshots/IBM_BOB_Summarization&Understandings.png)
+![IBM Bob Project Overview](Screenshots/IBM_BOB_Summarization&Understandings.png)
 
 ### Bob Analysis and Modifications
 
 Bob analyzed the project information and provided assistance with modifications to the implementation.
 
-![IBM Bob Analysis and Modifications](screenshots/IBM_BOB_Modification.png)
+![IBM Bob Analysis and Modifications](Screenshots/IBM_BOB_Modification.png)
