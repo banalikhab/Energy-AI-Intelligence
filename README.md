@@ -346,19 +346,53 @@ Possible future improvements include:
 
 ---
 
-## Project Information
+## Dashboard Screenshots
 
-**Project:** Energy AI Intelligence
+Screenshots of the locally running Streamlit dashboard can be added here to demonstrate the project interface and results.
 
-**Program:** 1M1B AI for Sustainability Virtual Internship
+## Dashboard Screenshots
 
-**Primary SDG:** SDG 7 — Affordable and Clean Energy
+The following screenshots demonstrate the main features of the Streamlit dashboard, including energy forecasting, prediction error analysis, detailed records, and potential anomaly identification.
 
-**AI Technology:** IBM Bob
+### 1. Dashboard Overview
 
-**Development:** Python, Machine Learning, VS Code
+![Energy AI Intelligence Dashboard](Screenshots/Dashboard.png)
 
-**Repository:** Energy-AI-Intelligence
+### 2. Actual vs Predicted Energy Consumption
+
+![Actual vs Predicted Energy Consumption](Screenshots/Actual_vs_Predicted.png)
+
+### 3. Prediction Error Analysis
+
+![Prediction Error Analysis](Screenshots/Error.png)
+
+### 4. Detailed Energy Records
+
+![Detailed Energy Records](Screenshots/Detailed_Records.png)
+
+### 5. Potential Anomaly Detection
+
+![Potential Anomaly Detection](Screenshots/Potential_Anomaly_Defects1.png)
+
+### 6. Additional Anomaly Analysis
+
+![Additional Anomaly Analysis](Screenshots/Potential_Anomaly_Defects_2.png)
+
+## IBM Bob Integration
+
+IBM Bob was used as an AI-assisted tool during the development of the Energy AI Intelligence project. It was used to understand the project context, analyze the existing implementation, and assist with modifications to the project.
+
+### Bob Project Overview
+
+The initial Bob workspace and project environment are shown below.
+
+![IBM Bob Project Overview](Screenshots/IBM_BOB_Summarization&Understandings.png)
+
+### Bob Analysis and Modifications
+
+Bob analyzed the project information and provided assistance with modifications to the implementation.
+
+![IBM Bob Analysis and Modifications](Screenshots/IBM_BOB_Modification.png)
 
 ## Running the Streamlit Dashboard Locally
 
@@ -467,50 +501,18 @@ The large datasets, trained model files, and generated CSV files are kept locall
 
 The dashboard is intended for local demonstration and analysis of the project's energy forecasting and anomaly-detection results.
 
-## Dashboard Screenshots
+---
 
-Screenshots of the locally running Streamlit dashboard can be added here to demonstrate the project interface and results.
+## Project Information
 
-## Dashboard Screenshots
+**Project:** Energy AI Intelligence
 
-The following screenshots demonstrate the main features of the Streamlit dashboard, including energy forecasting, prediction error analysis, detailed records, and potential anomaly identification.
+**Program:** 1M1B AI for Sustainability Virtual Internship
 
-### 1. Dashboard Overview
+**Primary SDG:** SDG 7 — Affordable and Clean Energy
 
-![Energy AI Intelligence Dashboard](Screenshots/Dashboard.png)
+**AI Technology:** IBM Bob
 
-### 2. Actual vs Predicted Energy Consumption
+**Development:** Python, Machine Learning, VS Code
 
-![Actual vs Predicted Energy Consumption](Screenshots/Actual_vs_Predicted.png)
-
-### 3. Prediction Error Analysis
-
-![Prediction Error Analysis](Screenshots/Error.png)
-
-### 4. Detailed Energy Records
-
-![Detailed Energy Records](Screenshots/Detailed_Records.png)
-
-### 5. Potential Anomaly Detection
-
-![Potential Anomaly Detection](Screenshots/Potential_Anomaly_Defects1.png)
-
-### 6. Additional Anomaly Analysis
-
-![Additional Anomaly Analysis](Screenshots/Potential_Anomaly_Defects_2.png)
-
-## IBM Bob Integration
-
-IBM Bob was used as an AI-assisted tool during the development of the Energy AI Intelligence project. It was used to understand the project context, analyze the existing implementation, and assist with modifications to the project.
-
-### Bob Project Overview
-
-The initial Bob workspace and project environment are shown below.
-
-![IBM Bob Project Overview](Screenshots/IBM_BOB_Summarization&Understandings.png)
-
-### Bob Analysis and Modifications
-
-Bob analyzed the project information and provided assistance with modifications to the implementation.
-
-![IBM Bob Analysis and Modifications](Screenshots/IBM_BOB_Modification.png)
+**Repository:** Energy-AI-Intelligence
