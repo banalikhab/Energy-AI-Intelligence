@@ -1,11 +1,19 @@
+# Large generated outputs
+outputs/*.csv
+
+# Raw / processed datasets
+data/
+
+# Trained models
+models/
+
+# Python virtual environment
 venv/
+.venv/
+
+# Python cache
 __pycache__/
+*.pyc
+
+# Jupyter
 .ipynb_checkpoints/
-
-data/raw/
-data/processed/
-
-*.pkl
-*.joblib
-
-.env
