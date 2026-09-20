@@ -507,7 +507,7 @@ The dashboard is intended for local demonstration and analysis of the project's 
 
 **Project:** Energy AI Intelligence
 
-**Program:** 1M1B AI for Sustainability Virtual Internship
+**Program:** 1M1B AI for Sustainability Virtual Internship 2026
 
 **Primary SDG:** SDG 7 — Affordable and Clean Energy
 
@@ -516,3 +516,5 @@ The dashboard is intended for local demonstration and analysis of the project's 
 **Development:** Python, Machine Learning, VS Code
 
 **Repository:** Energy-AI-Intelligence
+
+**Author:** Banalikha Bhattacharjya
