@@ -498,3 +498,19 @@ The following screenshots demonstrate the main features of the Streamlit dashboa
 ### 6. Additional Anomaly Analysis
 
 ![Additional Anomaly Analysis](screenshots/Potential_Anomaly_Defects_2.png)
+
+## IBM Bob Integration
+
+IBM Bob was used as an AI-assisted tool during the development of the Energy AI Intelligence project. It was used to understand the project context, analyze the existing implementation, and assist with modifications to the project.
+
+### Bob Project Overview
+
+The initial Bob workspace and project environment are shown below.
+
+![IBM Bob Project Overview](screenshots/IBM_BOB_Summarization&Understandings.png)
+
+### Bob Analysis and Modifications
+
+Bob analyzed the project information and provided assistance with modifications to the implementation.
+
+![IBM Bob Analysis and Modifications](screenshots/IBM_BOB_Modification.png)
